@@ -1,2 +1,2 @@
 # CodeDevilME
-Config files for my GitHub profile.
+Don't hate the code, It's just ones and zeros.
